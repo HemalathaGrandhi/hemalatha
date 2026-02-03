@@ -27,10 +27,3 @@ The portfolio emphasizes research-driven storytelling, brand content, and high-q
 - [Google Fonts – Inter](https://fonts.google.com/specimen/Inter)  
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) for smooth scrolling and simple interactivity  
 
----
-
-## 🚀 Usage
-
-1. Clone the repository:  
-```bash
-git clone https://github.com/<your-username>/content-portfolio.git
